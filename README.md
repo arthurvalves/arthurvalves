@@ -4,7 +4,6 @@
 
   <a href="https://github.com/arthurvalves">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurvalves&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurvalves&show_icons=true&theme=gruvbox"/>
   </a>
 
   <br><br>
