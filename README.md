@@ -28,8 +28,8 @@
 
   <div align="center">
     <a href="https://github.com/arthurvalves">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroN3ves&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroN3ves&layout=compact&langs_count=7&theme=gruvbox"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurvalves&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurvalves&layout=compact&langs_count=7&theme=gruvbox"/>
   </div>
       
   <br>
