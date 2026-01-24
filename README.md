@@ -1,13 +1,18 @@
 <div align="center">
-  <h2>Olá! Eu sou o Arthur 🛠️</h2>
-  <p>Desenvolvedor curioso e apaixonado por tecnologia, programação e aprendizado constante!</p>
+  <h2>Olá! Eu sou o Arthur 🛠️</h2>
+  <p>
+    <em>Desenvolvedor curioso e apaixonado por tecnologia, programação e aprendizado constante!</em>
+  </p>
 
-  <a href="https://github.com/arthurvalves">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurvalves&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  </a>
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="mailto:avas@ic.ufal.br">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
 
-  <br><br>
+  <br><br>
 
-    <img src="https://streak-stats.demolab.com/?user=arthurvalves&theme=gruvbox&hide_border=false" />
-
-</div>
+  <h3>💻 Tecnologias</h3>
+  <div style="display: inline_block">
+    <img align="center" alt="Arthur-Js" height="30" width="40" src="https://
