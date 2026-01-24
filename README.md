@@ -2,6 +2,7 @@
   <h2>Olá! Eu sou o Arthur 🛠️</h2>
   <p>
     <em>Estudante de Engenharia de Computação - IC/UFAL</em>
+  </p>
     <em>Desenvolvedor curioso e apaixonado por tecnologia, programação e aprendizado constante!</em>
   </p>
 
