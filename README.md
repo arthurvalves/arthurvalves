@@ -1,9 +1,9 @@
 <div align="center">
   <h2>Olá! Eu sou o Arthur 🛠️</h2>
   <p>
-    <em>Estudante de Engenharia de Computação - IC/UFAL</em>
+    <em>Estudante de Engenharia de Computação - IC/UFAL e Bolsista de Redes e Infrasestrutura - LCCV</em>
   </p>
-    <em>Desenvolvedor curioso e apaixonado por tecnologia, programação e aprendizado constante!</em>
+    <em>Desenvolvedor curioso e apaixonado por tecnologia, infraestrutura e aprendizado constante!</em>
   </p>
 
   <a href="[https://www.linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/arthur-vinicius-5212132a7/)" target="_blank">
